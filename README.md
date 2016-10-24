@@ -1,6 +1,18 @@
 # Spring Boot ID Site SSO Demo
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dogeared/stormpath-id-site-multi-tenant)
+## You are on the `SpringBootStormpathIDSite` tag
+
+Use the dropdown above to choose a different tag. Available tags are:
+
+* SpringBootBasic - The most basic deployable Spring Boot web app
+* SpringBootStormpath - The most basic integration between Stormpath and Spring Boot
+* SpringBootStormpathIDSite - A Spring Boot web app that integrates Stormpath ID Site for Single SignOn and hosted views
+
+This demonstrates Stormpath's ID Site service. ID Site is used to host your registration, login and forgot password pages. It also enables Single SignOn.
+
+Deploy this tag to Heroku using the button below.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Purpose
 
